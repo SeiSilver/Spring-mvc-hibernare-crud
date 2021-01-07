@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="web-customer-tracker-mvc-crud:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/web_customer_tracker_mvc_crud_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="web-customer-tracker-mvc-crud/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="web-customer-tracker-mvc-crud" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

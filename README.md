@@ -1,1 +1,3 @@
 # Spring-mvc-hibernare-crud
+
+THIS IS THE DEMO HOW SPRING MVC + HIBERNARE WORK
